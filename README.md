@@ -53,8 +53,6 @@ The project contains seven classes in its main inheritance hierarchy:
  DreadLaugh  MusicalLaugh
      |
  CruelLaugh (final)
-
-     InheritedLaugh
 ```
 
 ## Interfaces
