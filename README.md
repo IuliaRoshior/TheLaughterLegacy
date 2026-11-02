@@ -226,7 +226,6 @@ src/
 | `laughter.types` | Abstract base class and other main laugh types |
 
 
-
 ## How to Run
 
 1. Clone or download the repository.
