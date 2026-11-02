@@ -1,0 +1,80 @@
+Type: BattleLaugh
+Owner: Luffy
+Laugh: SHISHISHI!
+Waves: 5
+Volumes: 97 96 76 49 78
+Waves left: 5
+Morale: -68
+Impact power: 65
+
+Type: DreadLaugh
+Owner: Kaido
+Laugh: WORORORO!
+Waves: 5
+Volumes: 77 46 49 65 95
+Waves left: 5
+Morale: -82
+Impact power: 70
+Fear level: 25
+
+Type: CruelLaugh
+Owner: Teach
+Laugh: ZEHAHAHAHA!
+Waves: 5
+Volumes: 65 32 77 31 75
+Waves left: 5
+Morale: 7
+Impact power: 55
+Fear level: 15
+Cruelty level: 28
+
+Type: MusicalLaugh
+Owner: Brook
+Laugh: YOHOHOHO!
+Waves: 5
+Volumes: 89 52 97 88 45
+Waves left: 5
+Morale: 2
+Impact power: 20
+Tempo BPM: 200
+
+Type: ForcedSmileLaugh
+Owner: Toko
+Laugh: HAHAHA...
+Waves: 5
+Volumes: 49 66 32 62 56
+Waves left: 5
+Morale: -29
+True emotion: sad
+Curse level: 20
+
+Type: InheritedLaugh
+Owner: Robin
+Laugh: SHISHISHI!
+Waves: 5
+Volumes: 97 96 76 49 78
+Waves left: 5
+Morale: 49
+Memory strength: 80
+Source: Luffy
+
+Type: CruelLaugh
+Owner: Crocodile
+Laugh: Kuhahahaha
+Waves: 3
+Volumes: 44 34 23
+Waves left: 3
+Morale: -9
+Impact power: 44
+Fear level: 9
+Cruelty level: 80
+
+Type: BattleLaugh
+Owner: Franky
+Laugh: KUKUKU!
+Waves: 6
+Volumes: 78 80 86 30 88 82
+Waves left: 6
+Morale: 12
+Impact power: 56
+
