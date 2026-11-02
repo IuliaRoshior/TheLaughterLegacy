@@ -149,8 +149,7 @@ The architecture also allows new character types and abilities to be added witho
 ---
 
 **Author:** Rosior Iulia  
-**University:** Moldova State University (USM)  
-**Group:** IA2504  
+**University:** Moldova State University (USM)   
 **Course:** Advanced Programming Technologies (Java)  
 **Year:** 2026
 
